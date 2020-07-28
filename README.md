@@ -40,3 +40,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 The first test is this sentence written and uploaded to git.[this page](Ginkgo51253.github.io)
 
+do not know how to start？[this page](https://www.jianshu.com/p/9f198d5779e6)
+
