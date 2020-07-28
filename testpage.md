@@ -1,5 +1,7 @@
 ---
-permalink: /testpage.html
+layout: page
+title: "TESTPAGE TITLE"
+permalink: /testpage/
 ---
 
 # this is testpage
