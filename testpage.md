@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "TESTPAGE TITLE"
 permalink: "/testpage/"
 ---
 
