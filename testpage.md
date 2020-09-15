@@ -4,4 +4,4 @@ permalink: "/testpage/"
 
 # this is testpage
 ## Welcome!
-goto [main page](https://Ginkgo51253.github.io)
+1602goto [main page](https://Ginkgo51253.github.io)
