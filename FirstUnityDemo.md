@@ -9,7 +9,11 @@ Return to [Home page](https://Ginkgo51253.github.io/Home)
 
 # 记录自己第一个unity的Demo建立过程
 
+<center>
+
 ![UnityDemo01](https://github.com/Ginkgo51253/Ginkgo51253.github.io/blob/master/Pictures/FirstUnityDemo01.PNG?raw=true)
+
+</center>
 
 <i>所有资源与代码存放在[我的Git仓库](https://github.com/Ginkgo51253/GK_storage/blob/master/新手勇者与二段跳.zip)中，如有必要可以随意下载查看</i>
 
@@ -35,11 +39,19 @@ Unity是我刚刚接触没多久的一款游戏引擎，鉴于操作的熟练程
 
 地面与阻挡物使用同一个游戏对象（板块）进行构建，每个板块在unity中设定好长宽后，添加多个空对象存放这些板块，通过设置```gameObject.transform.position```将板块摆放为地面、阻挡物（下图为地面的摆放方式）
 
+<center>
+
 ![UnityDemo02](https://github.com/Ginkgo51253/Ginkgo51253.github.io/blob/master/Pictures/FirstUnityDemo02.PNG?raw=true)
+
+</center>
 
 摆放好后，为地面、阻挡物的父对象添加一个碰撞箱用来表示碰撞范围，最终将阻挡物拖入资源文件夹中存为预制（Prefab），供之后在代码中调用（下图为存放好的预制）
 
+<center>
+
 ![UnityDemo03](https://github.com/Ginkgo51253/Ginkgo51253.github.io/blob/master/Pictures/FirstUnityDemo03.PNG?raw=true)
+
+</center>
 
 地面的移动将成为全局游戏的计时标准，每移动一块游戏板块都将进行一些操作，具体代码存放在Script/Main/GroundMove中。
 
@@ -47,7 +59,11 @@ Unity是我刚刚接触没多久的一款游戏引擎，鉴于操作的熟练程
 
 第一步，添加玩家对象，玩家有多种状态需要多张不同的玩家图片来进行表示，制作玩家的图片集（如下图）
 
+<center>
+
 ![UnityDemo03](https://github.com/Ginkgo51253/Ginkgo51253.github.io/blob/master/Pictures/FirstUnityDemo05.PNG?raw=true)
+
+</center>
 
 第二步，添加玩家自动行动的脚本，以玩家初始状态为基准，当玩家位置位于初始状态左侧时，赋予一个向右的速度控制玩家向右移动，当玩家碰撞到阻挡物时则无法向右移动，具体代码存放在Script/Main/PlayerAutoMove中。
 
@@ -61,7 +77,11 @@ Unity是我刚刚接触没多久的一款游戏引擎，鉴于操作的熟练程
 
 第一步，添加敌人对象，敌人需要有多种样式，因此先制作几种不同的敌人对象（如下图）
 
+<center>
+
 ![UnityDemo04](https://github.com/Ginkgo51253/Ginkgo51253.github.io/blob/master/Pictures/FirstUnityDemo04.PNG?raw=true)
+
+</center>
 
 第二步，为敌人添加碰撞箱，设置为触发器，添加脚本，具体代码在Script/Main/EnemyAction
 
