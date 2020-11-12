@@ -12,6 +12,6 @@ permalink: "/Home/"
 ## 1. [如何去建立一个自己的Minecraft服务器](Ginkgo51253.github.io/Minecraftserver)
 
 ## 2. [记录自己第一个Unity的Demo建立过程](Ginkgo51253.github.io/FirstUnityDemo/)
-##  3. [展示一个自制的微信小游戏(WeChat micro game)](Ginkgo51253.github.io/PMCgame)
+##  3. [展示一个自制的微信小游戏(WeChat micro game)](Ginkgo51253.github.io/PMcollect)
 
 

@@ -13,7 +13,7 @@ Return to [Home page](https://Ginkgo51253.github.io/Home)
 ![UnityDemo01](https://github.com/Ginkgo51253/Ginkgo51253.github.io/blob/master/Pictures/FirstUnityDemo01.PNG?raw=true)
 
 
-<i>所有资源与代码存放在[我的Git仓库](https://github.com/Ginkgo51253/GK_storage/blob/master/新手勇者与二段跳.zip)中，如有必要可以随意下载查看</i>
+<i>所有资源与代码存放在[我的Git仓库](https://github.com/Ginkgo51253/GK_storage/tree/master/新手勇者与二段跳)中，如有必要可以随意下载查看</i>
 
 ## 1. 选题
 
